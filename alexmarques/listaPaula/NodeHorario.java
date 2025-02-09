@@ -1,5 +1,5 @@
 package alexmarques.listaPaula;
 
-public class Diversos {
+public class NodeHorario {
     
 }
